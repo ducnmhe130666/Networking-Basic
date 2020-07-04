@@ -14,7 +14,9 @@
      * **IPv6:** Để đáp ứng nhu cầu về số lượng địa chỉ IP 
 2. Cấu tạo địa chỉ IP:
    * Được chia làm 2 phần NetworkID và phần HostID
-   ![IP](../IP.png)
+  
+   ![IP](../images/IP.png)
+
    * Địa chỉ IP đc chia thành 5 lớp: A, B, C, D, E và loopback
      * Lớp A: bao gồm các địa chỉ IP từ 1 - 126. Dùng 8 bits đầu dùng làm network ID còn lại là hostID
      * Lớp B: bao gồm các địa chỉ IP từ 128 - 191. Dùng 16 bits đầu làm networkID còn làm HostID
@@ -22,7 +24,7 @@
      * Lớp D: bao gồm các địa chỉ IP từ 244 - 239 dành cho địa chỉ broacast/multibroadcast
      * Lớp E: bao gồm các địa chỉ IP từ 240 - 255
   
-     ![Clasify IP address](../preview.png)
+     ![Clasify IP address](../images/preview.png)
 
 3. Các loại địa chỉ IP
    * IP private: là địa chỉ ip được thiết lập trong hệ thống mạng cục bộ
